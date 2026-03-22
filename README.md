@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/jsm0308/clipbox_v0/main/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%20%EB%AA%A8%EB%8D%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%EC%B5%9C%EC%A2%85%EB%B3%B8.png" title="원본 해상도로 보기">
-    <img src="./블랙박스%20모델%20아키텍쳐%20최종본.png" alt="Blackbox-Accident-Extractor 모델 아키텍처" width="140%" />
+    <img src="./블랙박스%20모델%20아키텍쳐%20최종본.png" alt="Blackbox-Accident-Extractor 모델 아키텍처" width="210%" />
   </a>
 </p>
 
